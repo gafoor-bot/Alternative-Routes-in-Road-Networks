@@ -8,7 +8,9 @@ This project explores **alternative route computation in road networks**, helpin
 - 🚀 **Dijkstra’s Algorithm / A* Search** for pathfinding.  
 - 🔄 **Diversified routes** to avoid similar paths.  
 - 📊 **Supports weighted graphs** with cost factors (time, distance, congestion, etc.).  
-- 🖥️ **Visualization (Optional)**: Displays the computed routes graphically.  
+- 🖥️ **Visualization (Optional)**: Displays the computed routes graphically.
+    
+## Demo:![image](https://github.com/user-attachments/assets/cbe707aa-8de5-4acf-ada3-37c5d5e7da98)
 
 ## 🛠 Installation
 Clone the repository using:  
