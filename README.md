@@ -12,11 +12,8 @@ This project explores **alternative route computation in road networks**, helpin
     
 ## Demo:![image](https://github.com/user-attachments/assets/cbe707aa-8de5-4acf-ada3-37c5d5e7da98)
 
-## 🛠 Installation
-Clone the repository using:  
-```sh
-git clone https://github.com/your-username/Alternative-Routes-in-Road-Networks.git
-cd Alternative-Routes-in-Road-Networks
+
+## License: This project is licensed under the MIT License
 
 
 
